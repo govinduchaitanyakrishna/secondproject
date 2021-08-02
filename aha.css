@@ -1,0 +1,100 @@
+body{
+    margin:auto;
+}
+#logo{
+    background-color: black;
+    height: 80px;
+    width:100%;
+}
+#logo_img {
+    width: 50px;
+    height: 50px;
+    margin-top: 1%;
+    margin-left: 3%;
+}
+#menu {
+    float: left;
+    margin-left: 16%;
+    margin-top: -4%;
+}
+#menu > a{
+    margin-left: 16px;
+    text-decoration: none;
+    color: white;
+}
+#menu > a:hover{
+    color: #ff6c2f;
+}
+#dropdown {
+    margin-left: 34%;
+    margin-top: -4%;
+}
+#login {
+    margin-left: 76%;
+    margin-top: -1%;
+}
+#login > a {
+    text-decoration: none;
+    color: white;
+    margin-left: 4%;
+}
+#login > .login1 {
+    border: 1px solid orange;
+    padding: auto;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color:#ff6c2f;
+}
+#movie_image{
+    height: 400px;
+    width: 100%;
+}
+.carousel-inner{
+    margin-top:-2%;
+}
+#main_content{
+    margin-left: 2%;
+    margin-top: -1%;
+    
+}
+#main_content > p{
+    margin-top: 3%;
+}
+hr {
+    width: 95%;
+    margin-left: 0%;
+    margin-top: -5%;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 4rem;
+}
+/*#movie_main{
+    border: 1px solid red;
+    height: 600px;
+    width: 200%;
+    
+}*/
+.content{
+    border:1px solid black ;
+    height: 300px;
+    width: 15%;
+    float: left;
+    margin-left:1%;
+    box-shadow: 0px 10px 12px;
+    margin-top:-1px;
+    border-radius: 10px;
+    margin-bottom: 1%;
+}
+.content > img{
+    width:100%;
+    height:300px;
+    border-radius: 10px;
+}
+.content:hover{
+    transform: scale(1.1);
+}
+
+
