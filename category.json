@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "category":"handpicked movies",
+    }
+    {
+        "id":2,
+        "category":"aha originals",
+    }
+    {
+        "id":3,
+        "category":"most watched on aha",
+    }
+    {
+        "id":4,
+        "category":"latest on aha",
+    }
+    {
+        "id":5,
+        "category":"newly added library",
+    }
+    {
+        "id":6,
+        "category":"free movies",
+    }
+    {
+        "id":7,
+        "category":"recomended episodes",
+    }
+    {
+        "id":8,
+        "category":"action",
+    }
+    {
+        "id":9,
+        "category":"drama",
+    }
+    {
+        "id":10,
+        "category":"crime",
+    }
+    {
+        "id":11,
+        "category":"romance",
+    }
+    {
+        "id":12,
+        "category":"thriller",
+    }
+    {
+        "id":13,
+        "category":"comedy",
+    }
+    {
+        "id":14,
+        "category":"aha kids",
+    }
+    {
+        "id":15,
+        "category":"aha shots",
+    }
+]
