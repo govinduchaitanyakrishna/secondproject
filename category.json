@@ -25,38 +25,34 @@
     }
     {
         "id":7,
-        "category":"recomended episodes",
-    }
-    {
-        "id":8,
         "category":"action",
     }
     {
-        "id":9,
+        "id":8,
         "category":"drama",
     }
     {
-        "id":10,
+        "id":9,
         "category":"crime",
     }
     {
-        "id":11,
+        "id":10,
         "category":"romance",
     }
     {
-        "id":12,
+        "id":11,
         "category":"thriller",
     }
     {
-        "id":13,
+        "id":12,
         "category":"comedy",
     }
     {
-        "id":14,
+        "id":13,
         "category":"aha kids",
     }
     {
-        "id":15,
+        "id":14,
         "category":"aha shots",
     }
 ]

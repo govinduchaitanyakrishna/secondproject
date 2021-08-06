@@ -377,7 +377,7 @@
         "age":13+,
         "image":"https://i.ibb.co/fChVf9v/Addham.jpg",
         "year":2020,
-        "info":"Moral conflicts, life altering decisions and contrasting situations converge in this three tale anthology revolving around the idea that "Morality is a changing goalpost"",
+        "info":"Moral conflicts, life altering decisions and contrasting situations converge in this three tale anthology revolving around the idea that Morality is a changing goalpost",
 
     }
     {
@@ -850,11 +850,386 @@
     {
         "id":20,
         "name":"11th hour",
-        "category_id":2,
+        "category_id":4,
         "age":"13+",
         "image":"https://i.ibb.co/zGQSKNw/11th-hour.jpg",
         "year":2021,
         "info":"She’s a woman trying to conquer a man’s world! Will Aratrika win the biggest fight of her life?",
 
+    }
+]
+
+                <!------------ category_id:5--------------->
+
+
+[
+    {
+        "id":1,
+        "name":"dhada",
+        "category_id":5,
+        "age":"13+",
+        "image":"https://i.ibb.co/dcnqyBn/dhada.jpg",
+        "year":2011,
+        "info":"Enjoy Dhada full movie here : Viswa, an engineer, falls in love with Rhea, the daughter of a businessman. However, he gets embroiled with the affairs of a human trafficking gang while his lover's marriage is fixed elsewhere.",
+    }
+    {
+        "id":2,
+        "name":"koncham istam koncham kastam",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/KVpgWdG/koncham-istam-koncham-kastam.jpg",
+        "year":2009,
+        "info":"Enjoy Kedi full movie here : Geeta's father disapproves of her relationship with Siddhu as he isn't too pleased with the fact that the latter's parents are divorced. Determined to marry Geeta, Siddhu promises to reunite his parents. But he knows that its not an easy task to pull off.
+        ",
+    }
+    {
+        "id":3,
+        "name":"chintakayala ravi",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/wgVX9HH/chintakayala-ravi.png",
+        "year":2008,
+        "info":"Enjoy Chintakaayala Ravi full movie here : Ravi, a waiter in New York, lies to his mother that he works as a software engineer. If the truth about his profession is revealed, his mother and his wife-to-be will be left disheartened. How will he manage to sail through this complicated journey of relationships ?",
+    }
+    {
+        "id":4,
+        "name":"c/o surya",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/BL8fbGS/c-o-surya.png",
+        "year":2017,
+        "info":"Enjoy C/o Surya full movie here : Kumar and Mahesh are two friends who have each other's back. However, they soon find themselves under the wrath of a dangerous local criminal.
+        ",
+    }
+    {
+        "id":5,
+        "name":"lovely",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/85xqQW3/lovely.png",
+        "year":2012,
+        "info":"Enjoy Lovely full movie here : Kittu and Lalli are Internet friends who get cold feet when it is time to meet. Kittu sends Akash in his place while Lalli sends Lavanya. The two fall in love, only to be opposed by Lavanya's father.",
+    }
+    {
+        "id":6,
+        "name":"bewars",
+        "category_id":5,
+        "age":"13+",
+        "image":"https://i.ibb.co/XjRwxB9/bewars.png",
+        "year":2018,
+        "info":"Lucky is nicknamed Bewars for his aimless attitude towards life by his father with whom he has regular squabbles about following his passion in becoming a pilot. In a turn of events, Lucky finds out that his sister has committed suicide. What made her take that decision ? Did lucky find out the truth ?",
+    }
+    {
+        "id":7,
+        "name":"bhairava dweepam",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/bHRyL3M/bhairava-dweepam.jpg",
+        "year":1994,
+        "info":"A boy is raised by a village chieftain after his mother loses him in the woods. As time passes and he grows up, he falls in love with a woman who is under the spell of a witch and decides to save her.",
+    }
+    {
+        "id":8,
+        "name":"life is beautiful",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/p4dQM2G/life-is-beautiful.png",
+        "year":2012,
+        "info":"Enjoy Life Is Beautiful full movie here : Srinu, a college student, moves to his uncle's house in Hyderabad and meets various people in the neighbourhood, rich and poor alike. He realizes later on that life is never going to be the same again.
+        ",
+    }
+    {
+        "id":9,
+        "name":"athadu",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/BzDrv9b/athadu.png",
+        "year":2005,
+        "info":"Enjoy Athadu full movie here : A professional killer is hired to fake the assassination of a politician. However, when the politician is killed and he is framed for his murder, he takes on a dead man's identity to escape the law.",
+    }
+    {
+        "id":10,
+        "name":"chiru navvutho",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/FB9SPz2/chirunavvutho.jpg",
+        "year":2000,
+        "info":"After Aruna walks out on him on the day of their marriage, Venu moves to the city to focus on his career. He signs up for another heartbreak by falling for Sandhya, who chooses Pratap over him as her life partner.",
+    }
+    {
+        "id": 11,
+        "name":"Khaki",
+        "category_id":5,
+        "Age":"13+",
+        "image":"https://i.ibb.co/Fzq726R/khakee.jpg",
+        "year":2017,
+        "info":"Enjoy Khaki full movie here : An honest police officer finds himself transferred again and again due to his sincerity. After his latest transfer, he comes across a file that involves a gang of ruthless thieves who loot and kill along the highway."
+    }
+    {
+        "id":12,
+        "name":"sri raamadasu",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/DtjjTtv/sriramadasu.png",
+        "year":2006,
+        "info":"Enjoy Sri Raamadasu full movie here : Gopanna, a devotee of Lord Ram, collects funds to construct a temple. The Lord helps him through his trials and tribulations, even when he cuts open his own heart so that he can lay eyes on his God.",
+    }
+    {
+        "id":13,
+        "name":"ghatotkachudu",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/44SrCzz/ghatotkachudu.jpghttps://i.ibb.co/GVcm8zT/adhurs.jpg",
+        "year":1995,
+        "info":"A girl, being chased by her uncle's goons, is almost murdered when suddenly a deity appears out of heaven and saves her. Thereafter, the deity becomes her best friend and protector.
+        ",
+    }
+    {
+        "id":14,
+        "name":"adhurs",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/GVcm8zT/adhurs.jpg",
+        "year":2010,
+        "info":"Enjoy Adhurs full movie here : Twin brothers are separated at birth; one is raised by their mother, while the other by a priest's family. They are unaware of each other's existence until one of them is abducted by criminals because of a misunderstanding. Will they ever meet ?
+        ",
+    }
+    {
+        "id":15,
+        "name":"kobbari bondam",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/zWcTpMG/kobbari-bondam.jpg",
+        "year":1991,
+        "info":"Kobbari Bondam is a wholesome comedy entertainer that revolves around an innocent and coward guy Raju (Rajendra Prasad) who suddenly becomes powerful and immensely self-confident by possessing a historic magical coin. All the wonders Raju does with the coin; by changing appearance to an obese man and solving all his problems forms the story.
+        ",
+    }
+    {
+        "id":16,
+        "name":"fidaa",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/sqpVHzf/fidaa.jpg",
+        "year":2017,
+        "info":"Enjoy Fidaa full movie here : Varun, an NRI medical student, and Bhanu, a vivacious, young woman, fall in love with each other. However, they face many personal differences that create complications in their relationship."
+    }
+    {
+        "id":17,
+        "name":"vetagadu",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/qJx3GS1/vetagadu.jpg",
+        "year":1979,
+        "info":"Raja and Roja love each other, but Roja's father disagrees their relationship as he mistakenly believes that Raja's father cheated him. Raja must prove his father's innocence.
+        ",
+    }
+    {
+        "id":18,
+        "name":"stalin",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/QJ2rrf7/stalin.png",
+        "year":2021,
+        "info":"Stalin is deeply moved by the suicide of a girl with physical disabilities. As a result, he devises a formula of extending unconditional help to those who need it to establish peace. But things turn complicated in his life with the entry of Home Minister Muddu Krishnayya.
+        ",
+    }
+    {
+        "id":19,
+        "name":"nanau naa raakshasi",
+        "category_id":5,
+        "age":"16+",
+        "image":"https://i.ibb.co/vvcckBY/nenu-naa-raakshasi.png",
+        "year":2011,
+        "info":"Enjoy Nenu Naa Raakshasi full movie here : A sharpshooter loves a girl who works in a cafe, but whose real job is uploading suicide videos. While both share their reasons for doing what they do, a cop searches for the person behind the videos.
+        ",
+    }
+    {
+        "id":20,
+        "name":"rajendrudu gajendrudu",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/cQMdJPY/rajendrudu-gajendrudu.jpg",
+        "year":1993,
+        "info":"Rajendra wins Gajendra as a lottery prize and decides to keep her despite not being wealthy. Despite struggling financially they fall in love, but things fall apart when the murderer of Gajendra's previous master appears.",
+    }
+    {
+        "id":21,
+        "name":"eega",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/0jKns8B/eega.jpg",
+        "year":2012,
+        "info":"A man loves a woman but is killed by another jealous man, who lusts after the woman. He is reincarnated as a fly and decides to avenge his death. He teams up with the woman to make the murderer's life a living hell."
+    }
+    {
+        "id": 22,
+        "name":"Lisaa",
+        "category_id":5,
+        "Age":"13+",
+        "image":"https://i.ibb.co/SQCKCGZ/lissa.jpg",
+        "year":2019,
+        "info":"A woman decides to get her mother remarried and sets out to seek her grandparents' blessings. However, after arriving at their house, she discovers their murderous inclination and a haunting past"
+    }
+    {
+        "id":23,
+        "name":"andala rakshasi",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/Y0V11TS/andala-rakshasi.jpg",
+        "year":2012,
+        "info":"A wealthy man falls in love with a woman at first sight but his heart and hopes are broken when he learns that she loves another man. However, a chain of surprising events then changes all their lives forever.",
+    }
+    {
+        "id":24,
+        "name":"bichhagaada majaaka",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/bN3WxJd/bichagada-majaka.jpg",
+        "year":2019,
+        "info":"Enjoy Bichhagaada Majaaka full movie here : Siddhu & Avani fall in love with each other but their love story does not go well with Avani’s dad. Left with no choice, he lays a weird condition to Siddhu in order to marry his daughter. What is that condition? Did Siddhu fulfill it ?
+        ",
+    }
+    {
+        "id":25,
+        "name":"kedi",
+        "category_id":5,
+        "age":"13+",
+        "image":"https://i.ibb.co/6Hz3kdb/kedi.jpg",
+        "year":2010,
+        "info":"Enjoy Kedi full movie here : Rummy loves his childhood friend Janaki, who asks him to become rich and powerful before marrying her. With this motive, Rummy starts gambling & aspires to become rich in no time. But in the journey of his attempts to climb up the ladder of success, he completely changes as a person. Did this new avatar of Rummy let him go back to his childhood love or not ?
+        ",
+    }
+
+
+
+             //-------------category_id:7-----------//
+            
+    {
+        "id":1,
+        "name":"100",
+        "category_id":7,
+        "age":"13+",
+        "image":"",
+        "year":2019,
+        "info":"Enjoy 100 Full movie here A young cop coincidentally lands himself in a mysterious case around a girl's abduction."
+        ,
+        
+    }
+    {
+        "id":2,
+        "name":"gunturodu",
+        "category_id":6,
+        "age":"13+"
+        "image":"",
+        "year":2017,
+        "info":"Enjoy Gunturodu full movie here... After his engagement, Kanna falls in love with his fiance's friend Amrutha, and she reciprocates. Kanna finds himself in chaos after a tiff with Seshu, Amrutha's brother, and a short-tempered criminal lawyer, and his goons are on the lookout for him.
+        ",
+    }
+    {
+        "id":2,
+        "name":"gunturodu",
+        "category_id":6,
+        "age":""
+        "image":"",
+        "year":,
+        "info":"",
+    }
+    {
+        "id":2,
+        "name":"gunturodu",
+        "category_id":6,
+        "age":""
+        "image":"",
+        "year":,
+        "info":"",
+    }
+    {
+        "id":2,
+        "name":"gunturodu",
+        "category_id":6,
+        "age":""
+        "image":"",
+        "year":,
+        "info":"",
+    }
+    {
+        "id":2,
+        "name":"gunturodu",
+        "category_id":6,
+        "age":""
+        "image":"",
+        "year":,
+        "info":"",
+    }
+    {
+        "id":2,
+        "name":"gunturodu",
+        "category_id":6,
+        "age":""
+        "image":"",
+        "year":,
+        "info":"",
+    }
+    {
+        "id":2,
+        "name":"gunturodu",
+        "category_id":6,
+        "age":""
+        "image":"",
+        "year":,
+        "info":"",
+    }
+    {
+        "id":2,
+        "name":"gunturodu",
+        "category_id":6,
+        "age":""
+        "image":"",
+        "year":,
+        "info":"",
+    }
+    {
+        "id":2,
+        "name":"gunturodu",
+        "category_id":6,
+        "age":""
+        "image":"",
+        "year":,
+        "info":"",
+    }
+    {
+        "id":2,
+        "name":"gunturodu",
+        "category_id":6,
+        "age":""
+        "image":"",
+        "year":,
+        "info":"",
+    }{
+        "id":2,
+        "name":"gunturodu",
+        "category_id":6,
+        "age":""
+        "image":"",
+        "year":,
+        "info":"",
+    }
+    {
+        "id":2,
+        "name":"gunturodu",
+        "category_id":6,
+        "age":""
+        "image":"",
+        "year":,
+        "info":"",
+    }
+    {
+        "id":2,
+        "name":"gunturodu",
+        "category_id":6,
+        "age":""
+        "image":"",
+        "year":,
+        "info":"",
     }
 ]
