@@ -1,45 +1,62 @@
 <html>
     <head>
         <!-- Latest compiled and minified CSS -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
 
-        <!-- jQuery library -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous">
 
-        <!-- Latest compiled JavaScript -->
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-        <link rel="stylesheet" href="bootstrap.css">
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
     </head>
     <body>
         <div class="container">
-            <div class="col-md-offset-6">
+            <div class="col-md-offset-5">
                 <h1>SIGN IN</h1>
             </div>
             <div class="panel panel-info">
                 <div class="panel-heading">
                     SIGN IN FORM
                 </div>
+                <div class="panel-body">
                     <form action="">
-                        <div class="form-group">
-                            <label for="oderid">OderId</label>
-                            <input class="form-control" placeholder="First Name" value="abcdWEVHFF123VJHV" type="text" id="oderid" readonly>
-                        </div>
-                        <div class="form-group">
-                            <label for="First Name">First Name</label>
-                            <input class="form-control" placeholder="First Name" name="first_name" type="text" id="First Name" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="Last Name">Last Name</label>
-                            <input class="form-control" placeholder="Last Name" name="last_name" type="text" id="Last Name" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="email">Email</label>
-                            <input class="form-control" placeholder="Email" name="email" type="email" id="email" required>
-                        </div>
-                        <input type="submit" class="btn btn-primary">
+                        <div class="row form-group">
+                            <div class="form-group">
+                                <label for="oderid">OderId</label>
+                                <input class="form-control" placeholder="First Name" value="abcdWEVHFF123VJHV" type="text" id="oderid" readonly>
+                            </div>
+                            <div class="form-group">
+                                <label for="First Name">First Name</label>
+                                <input class="form-control" placeholder="First Name" name="first_name" type="text" id="First Name" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="Last Name">Last Name</label>
+                                <input class="form-control" placeholder="Last Name" name="last_name" type="text" id="Last Name" required>
+                            </div>
+                            <div class="form-group col-md-6" >
+                                <label for="email">Email</label>
+                                <input class="form-control" placeholder="Email" name="email" type="email" id="email" required>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label for="password">Password</label>
+                                <input class="form-control" placeholder="password" name="password" type="password" id="password" required minlength="5" maxlength="10">
+                            </div>
+                            <div class="form-group radio-inline">
+                                <div class="radio">
+                                    <label for="female">
+                                        <input type="radio" name="gender" id="female">Female
+                                    </label>
+                                </div>
+                                <div class="radio">
+                                    <label for="Male">
+                                        <input type="radio" name="gender" id="Male">Male
+                                    </label>
+                                </div>
+                                <input type="submit" class="btn btn-primary">
+                            </div>
+                        </div> 
                     </form>
-                   
-                </div>
+                </div>   
             </div>
         </div>
     </body>
