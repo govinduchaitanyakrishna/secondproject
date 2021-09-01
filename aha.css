@@ -8,7 +8,14 @@
     height: 250px;
     width: 46%;
 }
-.main-content > h3{
-    color: #ff6c2f;
-    margin-left: 3%;
+.main-content{
+    height: 230px;
+    border: 2px solid red;
+    margin-bottom: 1%;
+}
+.main-content > img{
+    height: 229px;
+    border-radius: 5%;
+    width: 150px;
+    overflow-x: hidden;
 }
