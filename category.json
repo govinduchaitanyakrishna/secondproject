@@ -1,58 +1,58 @@
 [
     {
         "id":1,
-        "category":"handpicked movies",
-    }
+        "category":"handpicked movies"
+    },
     {
         "id":2,
-        "category":"aha originals",
-    }
+        "category":"aha originals"
+    },
     {
         "id":3,
-        "category":"most watched on aha",
-    }
+        "category":"most watched on aha"
+    },
     {
         "id":4,
-        "category":"latest on aha",
-    }
+        "category":"latest on aha"
+    },
     {
         "id":5,
-        "category":"newly added library",
-    }
+        "category":"newly added library"
+    },
     {
         "id":6,
-        "category":"free movies",
-    }
+        "category":"free movies"
+    },
     {
         "id":7,
-        "category":"action",
-    }
+        "category":"action"
+    },
     {
         "id":8,
-        "category":"drama",
-    }
+        "category":"drama"
+    },
     {
         "id":9,
-        "category":"crime",
-    }
+        "category":"crime"
+    },
     {
         "id":10,
-        "category":"romance",
-    }
+        "category":"romance"
+    },
     {
         "id":11,
-        "category":"thriller",
-    }
+        "category":"thriller"
+    },
     {
         "id":12,
-        "category":"comedy",
-    }
+        "category":"comedy"
+    },
     {
         "id":13,
-        "category":"aha kids",
-    }
+        "category":"aha kids"
+    },
     {
         "id":14,
-        "category":"aha shots",
+        "category":"aha shots"
     }
 ]
