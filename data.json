@@ -1,5 +1,5 @@
-                            //----------aha---------//
-                            //------category_id:1-------//
+                            //aha
+                            //categoey_id:1
 [
     {
         "id": 1,
@@ -9,7 +9,7 @@
         "image":"https://i.ibb.co/SQCKCGZ/lissa.jpg",
         "year":2019,
         "info":"A woman decides to get her mother remarried and sets out to seek her grandparents' blessings. However, after arriving at their house, she discovers their murderous inclination and a haunting past"
-    }
+    },
     {
         "id": 2,
         "name":"Khaki",
@@ -18,7 +18,7 @@
         "image":"https://i.ibb.co/Fzq726R/khakee.jpg",
         "year":2017,
         "info":"Enjoy Khaki full movie here : An honest police officer finds himself transferred again and again due to his sincerity. After his latest transfer, he comes across a file that involves a gang of ruthless thieves who loot and kill along the highway."
-    }
+    },
     {
         "id":3,
         "name":"andala rakshasi",
@@ -27,7 +27,7 @@
         "image":"https://i.ibb.co/wwPR2WG/andala-rakshasi.jpg",
         "year":2012,
         "info":"A wealthy man falls in love with a woman at first sight but his heart and hopes are broken when he learns that she loves another man. However, a chain of surprising events then changes all their lives forever."
-    }
+    },
     {
         "id":4,
         "name":"eega",
@@ -36,7 +36,7 @@
         "image":"https://i.ibb.co/0jKns8B/eega.jpg",
         "year":2012,
         "info":"A man loves a woman but is killed by another jealous man, who lusts after the woman. He is reincarnated as a fly and decides to avenge his death. He teams up with the woman to make the murderer's life a living hell."
-    }
+    },
     {
         "id":5,
         "name":"fidaa",
@@ -45,7 +45,7 @@
         "image":"https://i.ibb.co/sqpVHzf/fidaa.jpg",
         "year":2017,
         "info":"Enjoy Fidaa full movie here : Varun, an NRI medical student, and Bhanu, a vivacious, young woman, fall in love with each other. However, they face many personal differences that create complications in their relationship."
-    }
+    },
     {
         "id":6,
         "name":"adhurs",
@@ -54,7 +54,7 @@
         "image":"https://i.ibb.co/6FM8Nzn/adhurs.jpg",
         "year":2010,
         "info":"Enjoy Adhurs full movie here : Twin brothers are separated at birth; one is raised by their mother, while the other by a priest's family. They are unaware of each other's existence until one of them is abducted by criminals because of a misunderstanding. Will they ever meet ?"
-    }
+    },
     {
         "id":7,
         "name":"Yuddham sharanam",
@@ -63,7 +63,7 @@
         "image":"https://i.ibb.co/sqS7PLJ/Yuddham-sharanam.jpg" ,
         "year":2017,
         "info":"When his parents' corpses are found in a river under mysterious circumstances, Arjun sets out to investigate their deaths. On finding certain disturbing truths, he vows revenge on their killers."
-    }
+    },
     {
         "id":8,
         "name":"chavu kaburu chalaga",
@@ -72,7 +72,7 @@
         "image":"https://i.ibb.co/HFJZGsC/chavu-kaburu-chalaga.jpg" ,
         "year":2021,
         "info":"Enjoy Chaavu Kaburu Challaga full movie here : What happens when a mortuary van driver experiences love at first sight on seeing a widow when she is paying her last tributes to her deceased husband? Chaavu Kaburu Challaga is an emotional story you don't want to miss."
-    }
+    },
     {
         "id":9,
         "name":"sin",
@@ -81,7 +81,7 @@
         "image":"https://i.ibb.co/G5nVkvm/sin.jpg",
         "year":2020,
         "info":"aught in an emotional turmoil over an abusive marriage and husband's extramarital affair, will a woman's love triumph over a man's lust? Inspired by the series “Hello” on Hoichoi, A story that hugs your heart."
-    }
+    },
     {
         "id":10,
         "name":"krishna and his lila",
@@ -90,7 +90,7 @@
         "image":"https://i.ibb.co/28R4z29/krishna-and-his-lila.jpg" ,
         "year":2020,
         "info":"Enjoy Krishna and His Leela Full movie here Tangled between two women, Krishna's confusing journey to understand love and relationships."
-    }
+    },
     {
         "id":11,
         "name":"zombie reddy",
@@ -99,7 +99,7 @@
         "image":"https://i.ibb.co/rFsht1K/zombie-reddy.jpg",
         "year":2021,
         "info":"Set in the backdrop of rivalry between two villages in Rayalaseema, Zombie Reddy follows a group of friends who reunite two families amid a zombie attack."
-    }
+    },
     {
         "id":12,
         "name":"sam jam",
@@ -108,7 +108,7 @@
         "image":"https://i.ibb.co/JjxRyCP/sam-jam.jpg",
         "year":2020,
         "info":"From his biggest turning point in life to how it feels to be Tollywood's stylish star, Allu Arjun opens about his definition of style, unconditional love and his exciting experiences in life in this New Year special episode of Sam Jam."
-    }
+    },
     {
         "id":13,
         "name":"thank you brother",
@@ -117,16 +117,16 @@
         "image":"https://i.ibb.co/rxX83zD/thank-you-brother.jpg",
         "year":2021,
         "info":"hank You Brother' is about two strangers, a rich spoilt young man and a pregnant woman who get stuck in an elevator. The story reaches a twist when her labor pain begins while they still wait for help to arrive."
-    }
+    },
     {
         "id":15,
         "name":"anaganaga o athidhi",
         "category_id":1,
         "age":"16+",
-        "image":"https://i.ibb.co/F5bSVRY/anaganaga-o-athidhi.jpg" ,
+        "image":"https://i.ibb.co/F5bSVRY/anaganaga-o-athidhi.jpg",
         "year":2020,
         "info":"Subbaiah and his family live in abject poverty and a soothsayer tells them that their fortune will change overnight. The peace in the house is stirred when a stranger knocks on their door seeking shelter for a night, and the consequences are deadly."
-    }
+    },
     {
         "id":16,
         "name":"trance",
@@ -135,7 +135,7 @@
         "image":"https://i.ibb.co/82ztV0g/trance.jpg",
         "year":2020,
         "info":" A motivational speaker's journey from rags to riches after he's hired as the face of a religious fraud to become a Miracle man in the name of God. With increasing popularity come the delusional waves of gloom, and he finds himself reaching a point of no return."
-    }
+    },
     {
         "id":17,
         "name":"thellavarithe guruvaram",
@@ -144,7 +144,7 @@
         "image":"https://i.ibb.co/pbXmGTy/thellavarithe-guruvaram.jpg",
         "year":2021,
         "info":"he story is about a couple who are on the verge of entering into wedlock the next morning. However, hours before their wedding, both of them plan to elope separately. The rest of the story is all about how their lives change over the night."
-    }
+    },
     {
         "id":18,
         "name":"forensic",
@@ -153,7 +153,7 @@
         "image":"https://i.ibb.co/94hfxdM/forensic.jpg",
         "year":2020,
         "info":"A medico-legal advisor uses his forensic skills and uncovers evidence that leads to the killer's identity in a serial killing case."
-    }
+    },
     {
         "id":19,
         "name":"krack",
@@ -162,7 +162,7 @@
         "image":"https://i.ibb.co/T41pYFN/krack.jpg",
         "year":2021,
         "info":"When a most-wanted terrorist, a factionist, and a local goon locks horns with an honest cop Potharaju Veerashankar, little do they know that their lives will be changed forever."
-    }
+    },
     {
         "id":20,
         "name":"nandhi",
@@ -171,7 +171,7 @@
         "image":"https://i.ibb.co/6ZRxQwj/nandhi.jpg" ,
         "year":2021,
         "info":"Surya Prakash's life takes an unexpected turn when he is wrongly implicated in a murder case and serves prison as an undertrial for five years. When junior lawyer Aadhya enters his life as a ray of hope, the duo wages a legal battle."
-    }
+    },
     {
         "id":21,
         "name":"vijay sethupathi",
@@ -180,7 +180,7 @@
         "image":"https://i.ibb.co/qBD8MPX/vijay-sathupathi.jpg",
         "year":2021,
         "info":"An aspiring film actor locks horns with a ruthless businessman planning to build a factory in his village. The action-packed drama reaches a twist when his past is revealed."
-    }
+    },
     {
         "id":22,
         "name":"khaidi",
@@ -189,7 +189,7 @@
         "image":"https://i.ibb.co/SXmCJyW/khaidi.jpg",
         "year":2019,
         "info":"An ex-felon is finally out of prison to meet his daughter, but a twist in the circumstances leaves him in charge of saving unconscious police officers. He, along with Inspector Bejoy, must fight their way through betrayal to defeat the drug lord and emerge victoriously."
-    }
+    },
     {
         "id":23,
         "name":"ngk",
@@ -198,7 +198,7 @@
         "image":"https://i.ibb.co/7VzhPVG/ngk.jpg",
         "year":2019,
         "info":"The life-transforming circumstances faced by a social worker turned politician on the path to ensure the welfare of his people."
-    }
+    },
     {
         "id":24,
         "name":"36 vayasulo",
@@ -207,7 +207,7 @@
         "image":"https://i.ibb.co/MGdGcpD/36-vayasulo.jpg",
         "year":2015,
         "info":"Enjoy 36 Vayasulo Full movie here : Vasanthi, a 36-year-old married woman, sacrifices her dreams and desires for her family. While a friend inspires her to rediscover her true self, she becomes an achiever and earns her family's respect."
-    }
+    },
     {
         "id":25,
         "name":"hay pillagada",
@@ -216,30 +216,30 @@
         "image":"https://i.ibb.co/C0sNM9D/hay-pillagada.jpg",
         "year":2016,
         "info":"Enjoy Hey Pillagada full movie here... Siddarth is a short-tempered man who has problems with his wife, Anjali. Their life takes a turn when they get involved with a gangster."
-    }
+    },
     {
         "id":26,
         "name":"mental madhilo",
         "category_id":1,
         "age":"7+",
-        "image":"https://i.ibb.co/QN1zZKw/mental-madhilo.jpg"‚,
+        "image":"https://i.ibb.co/QN1zZKw/mental-madhilo.jpg",
         "year":2017,
         "info":"Enjoy Mental Madhilo full movie here The confusing misadventures of a young man stuck in a love triangle with a difficult choice to make. Will he ever get out of his dilemma?"
     }
 ]
-                                    //------------category_id:2----------//
+                                    /*------------category_id:2----------*/
 
 [
     {
         "id":1,
         "name":"Aha Bhojanambu",
         "category_id":2,
-        "age":7+,
+        "age":"7+",
         "image":"https://i.ibb.co/q7m5vZT/Aha-Bhojanambu.jpg",
         "year":2021,
-        "info":"An exciting talk show with a rare mix of nostalgic conversations, in the backdrop of Mouth watering Food...Meet Lakshmi, the host interacting with various celebs, exploring their cooking skills, in her own amusing way, taking us all down the memory lane !",
+        "info":"An exciting talk show with a rare mix of nostalgic conversations, in the backdrop of Mouth watering Food...Meet Lakshmi, the host interacting with various celebs, exploring their cooking skills, in her own amusing way, taking us all down the memory lane !"
 
-    }
+    },
     {
         "id":2,
         "name":"Kudi Yedamaithe",
