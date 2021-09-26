@@ -223,11 +223,7 @@
         "image":"https://i.ibb.co/QN1zZKw/mental-madhilo.jpg",
         "year":2017,
         "info":"Enjoy Mental Madhilo full movie here The confusing misadventures of a young man stuck in a love triangle with a difficult choice to make. Will he ever get out of his dilemma?"
-    }
-]
-
-
-[
+    },
     {
         "id":1,
         "name":"Aha Bhojanambu",
@@ -242,7 +238,7 @@
         "id":2,
         "name":"Kudi Yedamaithe",
         "category_id":2,
-        "age":16+,
+        "age":"16+",
         "image":"https://i.ibb.co/XbVzjBD/Kudi-Yedamaithe.jpg",
         "year":2021,
         "info":"A Food Delivery Guy, who finds a bloody corpse of a young woman in the middle of a night & A Female Police Inspector investigating a missing child's case collide into each other as they meet with a fatal accident, which sends both of them into a Never ending time loop until they figure out an Unimaginable way out of it."
@@ -252,7 +248,7 @@
         "id":3,
         "name":"in the name of god",
         "category_id":2,
-        "age":18+,
+        "age":"18+",
         "image":"https://i.ibb.co/Jj7pdqx/in-the-name-of-god.jpg" ,
         "year":2021,
         "info":"Love, Lust, Freedom, Greed, Beauty what drives people to do unimaginable things? What provokes them to shed Blood? Press the play button for a shocking tale."
@@ -262,7 +258,7 @@
         "id":4,
         "name":"sam jam",
         "category_id":2,
-        "age":7+,
+        "age":"7+",
         "image":"https://i.ibb.co/JjxRyCP/sam-jam.jpg",
         "year":2021,
         "info":"Sam Jam is a happy and fun-filled talk show hosted by our favorite actress Samantha in her style. This show features celebrity interviews, fun games, spotlights some inspiring real-life stories and talent, and indulges in philanthropy activities."
@@ -271,7 +267,7 @@
         "id":5,
         "name":"anaganaga o athidhi",
         "category_id":2,
-        "age":16+,
+        "age":"16+",
         "image":"https://i.ibb.co/F5bSVRY/anaganaga-o-athidhi.jpg" ,
         "year":2020,
         "info":"Subbaiah and his family live in abject poverty and a soothsayer tells them that their fortune will change overnight. The peace in the house is stirred when a stranger knocks on their door seeking shelter for a night, and the consequences are deadly."
@@ -280,7 +276,7 @@
         "id":6,
         "name":"sin",
         "category_id":2,
-        "age":18+,
+        "age":"18+",
         "image":"https://i.ibb.co/G5nVkvm/sin.jpg",
         "year":2020,
         "info":"aught in an emotional turmoil over an abusive marriage and husband's extramarital affair, will a woman's love triumph over a man's lust? Inspired by the series “Hello” on Hoichoi, A story that hugs your heart."
@@ -289,7 +285,7 @@
         "id":7,
         "name":"locked",
         "category_id":2,
-        "age":16+,
+        "age":"16+",
         "image":"https://i.ibb.co/ykr7fHH/locked.jpg",
         "year":2020,
         "info":"A man who is not who he claims to be, two robbers and a few uninvited guests, all trapped and locked in a mansion. With the mastermind always a step ahead and sinister occurrences, will they survive this journey that is sure to leave even the brave ones trembling?"
@@ -299,18 +295,17 @@
         "id":8,
         "name":"mail",
         "category_id":2,
-        "age":12+,
+        "age":"12+",
         "image":"https://i.ibb.co/3vhBfg6/mail.jpg",
         "year":2021,
-        "info":"Fascinated by the world of computers and the internet, an innocent 18-year-old Ravi feels elated when a fellow villager Hybath opens a gaming centre. Soon, an email unfurls a series of unexpected events stirring life-altering experiences.
-        "
+        "info":"Fascinated by the world of computers and the internet, an innocent 18-year-old Ravi feels elated when a fellow villager Hybath opens a gaming centre. Soon, an email unfurls a series of unexpected events stirring life-altering experiences."
 
     },
     {
         "id":9,
         "name":"11th hour",
         "category_id":2,
-        "age":13+,
+        "age":"13+",
         "image":"https://i.ibb.co/zGQSKNw/11th-hour.jpg",
         "year":2021,
         "info":"She’s a woman trying to conquer a man’s world! Will Aratrika win the biggest fight of her life?"
@@ -320,7 +315,7 @@
         "id":10,
         "name":"getha subramanyam 2020",
         "category_id":2,
-        "age":7+,
+        "age":"7+",
         "image":"https://i.ibb.co/HTrhNsm/geetha-subramanyam.jpg",
         "year":2020,
         "info":"Geeta Subramanyam is a new-age romance comedy that explores the story of Geetha and Subramanyam, a couple in a live-in relationship. Their constant bickering and cutesy fights make for an endearing and engaging watch that evokes fun. The story explores how over time, they realize that they are made for each other."
@@ -330,7 +325,7 @@
         "id":11,
         "name":"commit mental",
         "category_id":2,
-        "age":7+,
+        "age":"7+",
         "image":"https://i.ibb.co/FhTkJS6/commit-mental.jpg",
         "year":2020,
         "info":"A three-year long-distance relationship between Phani and Anu takes an unexpected twist when he asks her to marry him. While their journey has many highs, lows and bittersweet experiences, will this bumpy ride bring them closer?"
@@ -340,18 +335,17 @@
         "id":12,
         "name":"super over",
         "category_id":2,
-        "age":7+,
+        "age":"7+",
         "image":"https://i.ibb.co/yYtjrDm/super-over.jpg",
         "year":2021,
-        "info":"Luck favours Kaasi and his friends in cricket betting but soon lands them in inevitable trouble. What follows is a chase with unforeseen events and turns, leading to an unprecedented ending.
-        "
+        "info":"Luck favours Kaasi and his friends in cricket betting but soon lands them in inevitable trouble. What follows is a chase with unforeseen events and turns, leading to an unprecedented ending."
 
     },
     {
         "id":13,
         "name":"ARDHA SHATHABDHAM",
         "category_id":2,
-        "age":16+,
+        "age":"16+",
         "image":"https://i.ibb.co/y8pHyYd/ARDHA-SHATHABDHAM.jpg",
         "year":2021,
         "info":"Enjoy Ardha Shathabdham full movie here : After five decades of Independence, India's rural landscape still throws up unanswerable questions. Can a love story bring a revolution? Witness this earthy love story set in the early 2000s"
@@ -361,7 +355,7 @@
         "id":14,
         "name":"Tamasha with Harsha",
         "category_id":2,
-        "age":7+,
+        "age":"7+",
         "image":"https://i.ibb.co/0q9pfN1/Tamasha-with-Harsha.jpg" ,
         "year":2020,
         "info":"Harsha is all geared to give you a laugh-out-loud dose of tamasha as he interacts with celebs and roasts them savagely and hilariously. High on energy, fun banter, and in his style, it's going to be a laugh riot. Check out what's burning! New episodes every Friday!"
@@ -371,7 +365,7 @@
         "id":15,
         "name":"Addham",
         "category_id":2,
-        "age":13+,
+        "age":"13+",
         "image":"https://i.ibb.co/fChVf9v/Addham.jpg",
         "year":2020,
         "info":"Moral conflicts, life altering decisions and contrasting situations converge in this three tale anthology revolving around the idea that Morality is a changing goalpost"
@@ -381,7 +375,7 @@
         "id":16,
         "name":"Mastis",
         "category_id":2,
-        "age":16+,
+        "age":"16+",
         "image":"https://i.ibb.co/Pt605gd/mastis.jpg",
         "year":2020,
         "info":"Sexual Content | Masti's, created by Krish Jagarlamudi, Weaves a riveting tale around six people from contrasting worlds discovering love and friendship while navigating through various pitfalls of work and life"
@@ -391,7 +385,7 @@
         "id":17,
         "name":"Kotha Poradu",
         "category_id":2,
-        "age":13+,
+        "age":"13+",
         "image":"https://i.ibb.co/0sLT0nZ/Kotha-Poradu.jpg",
         "year":2020,
         "info":"This story revolves around Raju, a care-free village guy who is new to the city. While his struggle seems to be never-ending, fate has a different plan in store for him. Watch Kothaporadu and know more about his journey."
@@ -401,7 +395,7 @@
         "id":18,
         "name":"Shit Happens",
         "category_id":2,
-        "age":13+,
+        "age":"13+",
         "image":"https://i.ibb.co/Jr6MSNz/shit-happnes.jpg",
         "year":2020,
         "info":"Unable to take the constant humiliation from collegemates who call them Dry Batch, three friends – Harsha, Sameer and Sathvik – hire a hooker to prove their cool quotient. Things take an unexpected turn when she dies in their house. What transpires is a series of twists, turns and failed attempts at covering their tracks."
@@ -410,7 +404,7 @@
         "id":19,
         "name":"all is well",
         "category_id":2,
-        "age":7+,
+        "age":"7+",
         "image":"https://i.ibb.co/jH2txGL/all-is-well.jpg",
         "year":2020,
         "info":"Sending bright smiles and positive vibes your way, All is well is a talk show hosted by Suma Kanakala, where she interacts with various celebrities and maintains an entertaining tenor while highlighting all the good news from around the world."
@@ -420,7 +414,7 @@
         "id":20,
         "name":"honey moon",
         "category_id":2,
-        "age":13+,
+        "age":"13+",
         "image":"https://i.ibb.co/CQv0Bmr/honeymoon.jpg",
         "year":2020,
         "info":"After consenting to an arranged marriage, Praveen and Tejaswini embark on a journey filled with unexpected events and galore of emotions, and their unplanned honeymoon turns out to be the best decision ever."
@@ -430,23 +424,18 @@
         "id":21,
         "name":"no 1 yari with rana",
         "category_id":2,
-        "age":7+,
+        "age":"7+",
         "image":"https://i.ibb.co/TcWjsQS/no1-yari-rana.jpg" ,
         "year":2020,
         "info":"It's time to celebrate Yaari again! The most favourite Telugu talk-show 'No.1 Yaari with Rana' is back with a brand new season."
 
-    }
-]
-                -------------category_id:3----------------------
-
-
-[
+    },
     
     {
         "id":1,
         "name":"MIDNIGHT MURDERS",
         "category_id":3,
-        "age":13+,
+        "age":"13+",
         "image":"",
         "year":2021,
         "info":"When police officers are viciously killed in quick succession, a consulting criminologist, Anwar, teams up with the Police to investigate the case. While the killer is still on the loose, Anwar must find the culprit before more blood is spilled."
@@ -455,7 +444,7 @@
         "id":2,
         "name":"forensic",
         "category_id":3,
-        "age":16+,
+        "age":"16+",
         "image":"https://i.ibb.co/94hfxdM/forensic.jpg",
         "year":2020,
         "info":"A medico-legal advisor uses his forensic skills and uncovers evidence that leads to the killer's identity in a serial killing case."
@@ -464,7 +453,7 @@
         "id":3,
         "name":"khaidi",
         "category_id":3,
-        "age":13+,
+        "age":"13+",
         "image":"https://i.ibb.co/SXmCJyW/khaidi.jpg",
         "year":2019,
         "info":"An ex-felon is finally out of prison to meet his daughter, but a twist in the circumstances leaves him in charge of saving unconscious police officers. He, along with Inspector Bejoy, must fight their way through betrayal to defeat the drug lord and emerge victoriously."
@@ -473,17 +462,16 @@
         "id":4,
         "name":"KANULU KANULANU DOCHAYANTE",
         "category_id":3,
-        "age":7+,
+        "age":"7+",
         "image":"",
         "year":2020,
-        "info":"Two clever engineers decide to change their deceptive ways and start afresh after falling in love until a crazy twist leaves their lives in turmoil.
-        "
+        "info":"Two clever engineers decide to change their deceptive ways and start afresh after falling in love until a crazy twist leaves their lives in turmoil."
     },
     {
         "id":5,
         "name":"ARJUN SURAVARAM",
         "category_id":3,
-        "age":7+,
+        "age":"7+",
         "image":"",
         "year":2019,
         "info":"Enjoy Arjun Suravaram full movie here... Arjun decides to pursue his dream of becoming an investigative journalist but finds himself tangled in the middle of a major corruption scam. He and Kavya set off on an adventure to prove his innocence only to uncover the evil forces waiting to take them down."
@@ -492,7 +480,7 @@
         "id":6,
         "name":"trance",
         "category_id":3,
-        "age":18+,
+        "age":"18+",
         "image":"https://i.ibb.co/82ztV0g/trance.jpg",
         "year":2020,
         "info":" A motivational speaker's journey from rags to riches after he's hired as the face of a religious fraud to become a Miracle man in the name of God. With increasing popularity come the delusional waves of gloom, and he finds himself reaching a point of no return."
@@ -501,17 +489,16 @@
         "id":7,
         "name":"ANUKONI ATHIDHI",
         "category_id":3,
-        "age":7+,
+        "age":"7+",
         "image":"",
         "year":2019,
-        "info":"Enjoy Anukoni Athidhi full movie here : A psychiatrist is assigned to inspect a mysterious mental asylum where he uncovers a shocking truth about the place.
-        "
+        "info":"Enjoy Anukoni Athidhi full movie here : A psychiatrist is assigned to inspect a mysterious mental asylum where he uncovers a shocking truth about the place."
     },
     {
         "id":8,
         "name":"OREY BUJJIGA",
         "category_id":3,
-        "age":7+,
+        "age":"7+",
         "image":"",
         "year":2020,
         "info":"Enjoy Orey Bujjiga Full movie here : What begins as a chance encounter between Bujji and Krishnaveni, after running away from the village for different reasons, ends up starting a comedy of errors as fate brings them together in the same office under mistaken identities."
@@ -520,7 +507,7 @@
         "id":9,
         "name":"COLOUR PHOTO",
         "category_id":3,
-        "age":7+,
+        "age":"7+",
         "image":"",
         "year":2020,
         "info":"Enjoy Colour Photo Full movie here : A love story between Jaya Krishna and Deepti, set in the late 1990s, comes alive in this periodic drama."
@@ -529,7 +516,7 @@
         "id":10,
         "name":"sultan",
         "category_id":3,
-        "age":13+,
+        "age":"13+",
         "image":"",
         "year":2021,
         "info":"Enjoy Sulthan full movie here : With untimely demise of his father, Sulthan sets off on a mission to reform his father's henchmen and save a village. The rest of the story uncovers his journey henceforth."
@@ -538,8 +525,8 @@
         "id":11,
         "name":"mental madhilo",
         "category_id":3,
-        "age":7+,
-        "image":"https://i.ibb.co/QN1zZKw/mental-madhilo.jpg"‚,
+        "age":"7+",
+        "image":"https://i.ibb.co/QN1zZKw/mental-madhilo.jpg",
         "year":2017,
         "info":"Enjoy Mental Madhilo full movie here The confusing misadventures of a young man stuck in a love triangle with a difficult choice to make. Will he ever get out of his dilemma?"
     },
@@ -547,7 +534,7 @@
         "id":12,
         "name":"vijay sethupathi",
         "category_id":3,
-        "age":13+,
+        "age":"13+",
         "image":"https://i.ibb.co/qBD8MPX/vijay-sathupathi.jpg",
         "year":2021,
         "info":"An aspiring film actor locks horns with a ruthless businessman planning to build a factory in his village. The action-packed drama reaches a twist when his past is revealed."
@@ -556,10 +543,10 @@
         "id":13,
         "name":"ATHADE SRIMANNARAYANA",
         "category_id":3,
-        "age":13+,
+        "age":"13+",
         "image":"",
         "year":2019,
-        "info":"Enjoy Athade Srimannarayana full movie here : A smart and witty police officer attempts to unravel the mystery behind the lost hidden treasure in Amaravati. However, he must battle the dangerous clan of dacoits and a fierce leader on his way.",
+        "info":"Enjoy Athade Srimannarayana full movie here : A smart and witty police officer attempts to unravel the mystery behind the lost hidden treasure in Amaravati. However, he must battle the dangerous clan of dacoits and a fierce leader on his way."
     },
     {
         "id":14,
@@ -574,7 +561,7 @@
         "id":15,
         "name":"thank you brother",
         "category_id":3,
-        "age":13+,
+        "age":"13+",
         "image":"https://i.ibb.co/rxX83zD/thank-you-brother.jpg",
         "year":2021,
         "info":"hank You Brother' is about two strangers, a rich spoilt young man and a pregnant woman who get stuck in an elevator. The story reaches a twist when her labor pain begins while they still wait for help to arrive."
@@ -583,17 +570,16 @@
         "id":16,
         "name":"KALA",
         "category_id":3,
-        "age":13+,
+        "age":"13+",
         "image":"",
         "year":2021,
-        "info":"Enjoy Kala full movie here : The death of a beloved dog unleashes the animalistic nature in two men and what follows is a bloody and brutal revenge saga.
-        "
+        "info":"Enjoy Kala full movie here : The death of a beloved dog unleashes the animalistic nature in two men and what follows is a bloody and brutal revenge saga."
     },
     {
         "id":17,
         "name":"play back",
         "category_id":3,
-        "age":7+,
+        "age":"7+",
         "image":"",
         "year":2021,
         "info":"Enjoy Play Back full movie here : An accidental cross-time telephone call connects Kartik, a crime reporter from 2019, to Sujata, a school teacher from 1993. When Kartik learns about Sujata's difficulties, he tries to change her future by changing the incidents from her past."
@@ -602,16 +588,16 @@
         "id":18,
         "name":"UTTHAMA VILLIAN",
         "category_id":3,
-        "age":7+,
+        "age":"7+",
         "image":"",
-        "year":,
+        "year":2020,
         "info":"Enjoy Utthama Villian full movie here : The story revolves around a superstar diagnosed with a brain tumour and decides to make his last comedy film with his mentor with whom he had a fall-out years ago."
     },
     {
         "id":19,
         "name":"thellavarithe guruvaram",
         "category_id":3,
-        "age":7+,
+        "age":"7+",
         "image":"https://i.ibb.co/pbXmGTy/thellavarithe-guruvaram.jpg",
         "year":2021,
         "info":"he story is about a couple who are on the verge of entering into wedlock the next morning. However, hours before their wedding, both of them plan to elope separately. The rest of the story is all about how their lives change over the night."
@@ -620,7 +606,7 @@
         "id":20,
         "name":"krack",
         "category_id":3,
-        "age":13,
+        "age":"13",
         "image":"https://i.ibb.co/T41pYFN/krack.jpg",
         "year":2021,
         "info":"When a most-wanted terrorist, a factionist, and a local goon locks horns with an honest cop Potharaju Veerashankar, little do they know that their lives will be changed forever."
@@ -629,7 +615,7 @@
         "id":21,
         "name":"chavu kaburu chalaga",
         "category_id":3,
-        "age":13+,
+        "age":"13+",
         "image":"https://i.ibb.co/HFJZGsC/chavu-kaburu-chalaga.jpg" ,
         "year":2021,
         "info":"Enjoy Chaavu Kaburu Challaga full movie here : What happens when a mortuary van driver experiences love at first sight on seeing a widow when she is paying her last tributes to her deceased husband? Chaavu Kaburu Challaga is an emotional story you don't want to miss."
@@ -638,7 +624,7 @@
         "id":22,
         "name":"zombie reddy",
         "category_id":3,
-        "age":13+,
+        "age":"13+",
         "image":"https://i.ibb.co/rFsht1K/zombie-reddy.jpg",
         "year":2021,
         "info":"Set in the backdrop of rivalry between two villages in Rayalaseema, Zombie Reddy follows a group of friends who reunite two families amid a zombie attack."
@@ -647,19 +633,12 @@
         "id":23,
         "name":"mail",
         "category_id":3,
-        "age":12+,
+        "age":"12+",
         "image":"https://i.ibb.co/3vhBfg6/mail.jpg",
         "year":2021,
-        "info":"Fascinated by the world of computers and the internet, an innocent 18-year-old Ravi feels elated when a fellow villager Hybath opens a gaming centre. Soon, an email unfurls a series of unexpected events stirring life-altering experiences.
-        "
+        "info":"Fascinated by the world of computers and the internet, an innocent 18-year-old Ravi feels elated when a fellow villager Hybath opens a gaming centre. Soon, an email unfurls a series of unexpected events stirring life-altering experiences."
 
-    }
-    
-]
-                            -------------category_id:4------------
-    
-
-[
+    },
     {
         "id":1,
         "name":"HERO",
@@ -776,8 +755,7 @@
         "age":"13+",
         "image":"https://i.ibb.co/JvGZtPd/kala.jpg",
         "year":2021,
-        "info":"Enjoy Kala full movie here : The death of a beloved dog unleashes the animalistic nature in two men and what follows is a bloody and brutal revenge saga.
-        "
+        "info":"Enjoy Kala full movie here : The death of a beloved dog unleashes the animalistic nature in two men and what follows is a bloody and brutal revenge saga."
     },
     {
         "id":13,
@@ -852,13 +830,7 @@
         "year":2021,
         "info":"She’s a woman trying to conquer a man’s world! Will Aratrika win the biggest fight of her life?"
 
-    }
-]
-
-                ------------ category_id:5---------------
-
-
-[
+    },
     {
         "id":1,
         "name":"dhada",
@@ -875,8 +847,7 @@
         "age":"7+",
         "image":"https://i.ibb.co/KVpgWdG/koncham-istam-koncham-kastam.jpg",
         "year":2009,
-        "info":"Enjoy Kedi full movie here : Geeta's father disapproves of her relationship with Siddhu as he isn't too pleased with the fact that the latter's parents are divorced. Determined to marry Geeta, Siddhu promises to reunite his parents. But he knows that its not an easy task to pull off.
-        "
+        "info":"Enjoy Kedi full movie here : Geeta's father disapproves of her relationship with Siddhu as he isn't too pleased with the fact that the latter's parents are divorced. Determined to marry Geeta, Siddhu promises to reunite his parents. But he knows that its not an easy task to pull off."
     },
     {
         "id":3,
@@ -894,8 +865,7 @@
         "age":"7+",
         "image":"https://i.ibb.co/BL8fbGS/c-o-surya.png",
         "year":2017,
-        "info":"Enjoy C/o Surya full movie here : Kumar and Mahesh are two friends who have each other's back. However, they soon find themselves under the wrath of a dangerous local criminal.
-        "
+        "info":"Enjoy C/o Surya full movie here : Kumar and Mahesh are two friends who have each other's back. However, they soon find themselves under the wrath of a dangerous local criminal."
     },
     {
         "id":5,
@@ -931,8 +901,7 @@
         "age":"7+",
         "image":"https://i.ibb.co/p4dQM2G/life-is-beautiful.png",
         "year":2012,
-        "info":"Enjoy Life Is Beautiful full movie here : Srinu, a college student, moves to his uncle's house in Hyderabad and meets various people in the neighbourhood, rich and poor alike. He realizes later on that life is never going to be the same again.
-        "
+        "info":"Enjoy Life Is Beautiful full movie here : Srinu, a college student, moves to his uncle's house in Hyderabad and meets various people in the neighbourhood, rich and poor alike. He realizes later on that life is never going to be the same again."
     },
     {
         "id":9,
@@ -977,8 +946,7 @@
         "age":"7+",
         "image":"https://i.ibb.co/44SrCzz/ghatotkachudu.jpghttps://i.ibb.co/GVcm8zT/adhurs.jpg",
         "year":1995,
-        "info":"A girl, being chased by her uncle's goons, is almost murdered when suddenly a deity appears out of heaven and saves her. Thereafter, the deity becomes her best friend and protector.
-        "
+        "info":"A girl, being chased by her uncle's goons, is almost murdered when suddenly a deity appears out of heaven and saves her. Thereafter, the deity becomes her best friend and protector."
     },
     {
         "id":14,
@@ -987,8 +955,7 @@
         "age":"7+",
         "image":"https://i.ibb.co/GVcm8zT/adhurs.jpg",
         "year":2010,
-        "info":"Enjoy Adhurs full movie here : Twin brothers are separated at birth; one is raised by their mother, while the other by a priest's family. They are unaware of each other's existence until one of them is abducted by criminals because of a misunderstanding. Will they ever meet ?
-        "
+        "info":"Enjoy Adhurs full movie here : Twin brothers are separated at birth; one is raised by their mother, while the other by a priest's family. They are unaware of each other's existence until one of them is abducted by criminals because of a misunderstanding. Will they ever meet ?"
     },
     {
         "id":15,
@@ -997,8 +964,7 @@
         "age":"7+",
         "image":"https://i.ibb.co/zWcTpMG/kobbari-bondam.jpg",
         "year":1991,
-        "info":"Kobbari Bondam is a wholesome comedy entertainer that revolves around an innocent and coward guy Raju (Rajendra Prasad) who suddenly becomes powerful and immensely self-confident by possessing a historic magical coin. All the wonders Raju does with the coin; by changing appearance to an obese man and solving all his problems forms the story.
-        "
+        "info":"Kobbari Bondam is a wholesome comedy entertainer that revolves around an innocent and coward guy Raju (Rajendra Prasad) who suddenly becomes powerful and immensely self-confident by possessing a historic magical coin. All the wonders Raju does with the coin; by changing appearance to an obese man and solving all his problems forms the story."
     },
     {
         "id":16,
@@ -1016,8 +982,7 @@
         "age":"7+",
         "image":"https://i.ibb.co/qJx3GS1/vetagadu.jpg",
         "year":1979,
-        "info":"Raja and Roja love each other, but Roja's father disagrees their relationship as he mistakenly believes that Raja's father cheated him. Raja must prove his father's innocence.
-        "
+        "info":"Raja and Roja love each other, but Roja's father disagrees their relationship as he mistakenly believes that Raja's father cheated him. Raja must prove his father's innocence."
     },
     {
         "id":18,
@@ -1026,8 +991,7 @@
         "age":"7+",
         "image":"https://i.ibb.co/QJ2rrf7/stalin.png",
         "year":2021,
-        "info":"Stalin is deeply moved by the suicide of a girl with physical disabilities. As a result, he devises a formula of extending unconditional help to those who need it to establish peace. But things turn complicated in his life with the entry of Home Minister Muddu Krishnayya.
-        "
+        "info":"Stalin is deeply moved by the suicide of a girl with physical disabilities. As a result, he devises a formula of extending unconditional help to those who need it to establish peace. But things turn complicated in his life with the entry of Home Minister Muddu Krishnayya."
     },
     {
         "id":19,
@@ -1036,8 +1000,7 @@
         "age":"16+",
         "image":"https://i.ibb.co/vvcckBY/nenu-naa-raakshasi.png",
         "year":2011,
-        "info":"Enjoy Nenu Naa Raakshasi full movie here : A sharpshooter loves a girl who works in a cafe, but whose real job is uploading suicide videos. While both share their reasons for doing what they do, a cop searches for the person behind the videos.
-        "
+        "info":"Enjoy Nenu Naa Raakshasi full movie here : A sharpshooter loves a girl who works in a cafe, but whose real job is uploading suicide videos. While both share their reasons for doing what they do, a cop searches for the person behind the videos."
     },
     {
         "id":20,
@@ -1082,8 +1045,7 @@
         "age":"7+",
         "image":"https://i.ibb.co/bN3WxJd/bichagada-majaka.jpg",
         "year":2019,
-        "info":"Enjoy Bichhagaada Majaaka full movie here : Siddhu & Avani fall in love with each other but their love story does not go well with Avani’s dad. Left with no choice, he lays a weird condition to Siddhu in order to marry his daughter. What is that condition? Did Siddhu fulfill it ?
-        "
+        "info":"Enjoy Bichhagaada Majaaka full movie here : Siddhu & Avani fall in love with each other but their love story does not go well with Avani’s dad. Left with no choice, he lays a weird condition to Siddhu in order to marry his daughter. What is that condition? Did Siddhu fulfill it ?"
     },
     {
         "id":25,
@@ -1092,7 +1054,6 @@
         "age":"13+",
         "image":"https://i.ibb.co/6Hz3kdb/kedi.jpg",
         "year":2010,
-        "info":"Enjoy Kedi full movie here : Rummy loves his childhood friend Janaki, who asks him to become rich and powerful before marrying her. With this motive, Rummy starts gambling & aspires to become rich in no time. But in the journey of his attempts to climb up the ladder of success, he completely changes as a person. Did this new avatar of Rummy let him go back to his childhood love or not ?
-        "
+        "info":"Enjoy Kedi full movie here : Rummy loves his childhood friend Janaki, who asks him to become rich and powerful before marrying her. With this motive, Rummy starts gambling & aspires to become rich in no time. But in the journey of his attempts to climb up the ladder of success, he completely changes as a person. Did this new avatar of Rummy let him go back to his childhood love or not ?"
     }
 ]
