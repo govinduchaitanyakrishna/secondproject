@@ -1,10 +1,10 @@
 var express=require('express');
 const app=express();
-const port=9290;
+const port=process.env.PORT||9290;
 const mongo =require('mongodb');
 const MongoClient=mongo.MongoClient;
-const mongourl="mongodb://localhost:27017"
-//const mongourl="mongodb+srv://govinduchaitanya3:1234@cluster0.jmt1h.mongodb.net/aha?retryWrites=true&w=majority"
+//const mongourl="mongodb://localhost:27017"
+const mongourl="mongodb+srv://govinduchaitanya3:1234@cluster0.jmt1h.mongodb.net/aha?retryWrites=true&w=majority"
 var db;
 var col_name="category"
 var category_data="data"
