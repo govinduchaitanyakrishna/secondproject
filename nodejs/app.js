@@ -1,41 +1,28 @@
-var express=require('express');
-const app=express();
-const port=process.env.PORT||9290;
-const mongo =require('mongodb');
-const MongoClient=mongo.MongoClient;
-//const mongourl="mongodb://localhost:27017"
-const mongourl="mongodb+srv://govinduchaitanya3:1234@cluster0.jmt1h.mongodb.net/aha?retryWrites=true&w=majority"
-var db;
-var col_name="category"
-var category_data="data"
+const bodyparser = require('bodyparser')
+const express = require('express')
+const path= require('path')
+const app=express()
 
-//get 
+var PORT=prossess.env.port||3000
 
-app.get('/',(req,res) => {
-    res.send("welcome to node aha api")
+//view Engine sethup
+
+app.set("views",path.join(__dirname))
+app.set("view wngine","ejs")
+
+// Body-parser middleware
+app.use(bodyparser.urlencoded({extended:false}))
+app.use(bodyparser.json())
+
+app.get("/",function(req,res){
+    res.render("sampleForm")
+});
+
+app.post('/saveData',(req,res)=>{
+    console.log("using Body-Parser:",req.body.fullname)
+    console.log("using Body-parser:",req.body.email)
 })
-
-//category
-
-app.get('/category',(req,res) => {
-    db.collection(col_name).find().toArray((err,result) => {
-        if(err) throw err;
-        res.send(result)
-    })
-})
-
-app.get('/data',(req,res) => {
-    db.collection(category_data).find().toArray((err,result) => {
-        if(err) throw err;
-        res.send(result)
-    })
-})
-
-MongoClient.connect(mongourl,(err,client)=>{
-    if(err) console.log("error while connecting");
-    db=client.db("aha");
-    app.listen(port,()=>{
-        console.log(`lisening on port ${port}`);
-    })
-
+app.listen(PORT,function(error){
+    if(error) throw error
+    console.log("server created successfully on Port",PORT)
 })
