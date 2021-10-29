@@ -10,73 +10,65 @@
   <link rel="stylesheet" href="aha.css" type="text/css">
   <!--Title of homepage-->
   <title>AHA MOVIES</title>
-  <!--js link-->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css" integrity="sha512-OTcub78R3msOCtY3Tc6FzeDJ8N9qvQn1Ph49ou13xgA9VsH9+LRxoFU6EqLhW4+PKRfU+/HReXmSZXHEkpYoOA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <!--bootstrap link-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <!--fontawesome link-->
   <script src="https://kit.fontawesome.com/c8e4d183c2.js" crossorigin="anonymous"></script>
 </head>
 <body>
-  <!--Navigation-->
-  <nav>
-    <!--Logo-->
+  <nav class="navbar navbar-inverse" style="height:60px;">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse"
+            data-target="#edunav">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <img class="navbar-brand" src="images/aha_logo.png">
+        </div>
+        <div class="collapse navbar-collapse" id="edunav">
+            <ul class="nav navbar-nav">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+        <div id="search" class="nav navbar-nav navbar-right" style="margin-top:-3%;margin-left:-10%"> 
+          <input type="text" placeholder="FAVOURATE MOVIES">
+          <i class="fa fa-search" style="color: aliceblue;"></i>
+        </div>
+        
+    </div>
+  </nav>
+</body>
+</html>
+
+
+
+
+<!--Navigation-->
+  <!--<nav navbar navbar-inverse>
+    <!--Logo--
     <a href="#" class="logo">
       <img src="images/aha_logo.png" alt="image/png">
     </a>
-    <!--Menu-->
+    <!--Menu--
     <ul class="menu">
       <li><a href="#">HOME</a></li>
       <li><a href="#">MOVIES</a></li>
       <li><a href="#">SHOWS</a></li>
       <li><a href="#">VIEW PLANS</a></li>
     </ul>
-    <!--Search-->
+    <!--Search--
     <div class="search">
       <input type="text" placeholder="Find Your Favorite Movies">
-      <!--search-icon-->
+      <!--search-icon--
       <i class="fas fa-search"></i>
     </div>
-  </nav>
-  <section id="main">
-    <!--showcase heading-->
-    <h1 class="showcase-heading">Showcase</h1>
-    <!--showcase body-->
-    <div class="owl-carousel owl-theme">
-      <div class="showcase-box">
-          <img src="images/mail.jpeg" class="imgclass"/>
-      </div>
-      <div class="showcase-box">
-          <img src="images/eega1.jpeg" class="imgclass"/>
-      </div>
-      <div class="showcase-box">
-          <img src="images/forensic.jpeg" class="imgclass"/>
-      </div>
-      <div class="showcase-box">
-          <img src="images/fida3.jpeg" class="imgclass"/>
-      </div>
-  </div>
-    
-  </section>
-  <script type="text/javascript">
-    $(document).ready(function(){
-        $(".owl-carousel").owlCarousel();
-    });
-    $('.owl-carousel').owlCarousel({
-        stagePadding: 20,
-        loop:true,
-        nav:true,
-        responsive:{
-            0:{
-                items:4
-            }
-            
-        }
-    })
-  </script>
-</body>
-</html>
+  </nav>-->
 
 
 
